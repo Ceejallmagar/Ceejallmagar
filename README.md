@@ -1,127 +1,142 @@
-<h1 align="center">Hi 👋, I'm Ceejal Magar</h1>
+<div align="center">
 
-<h3 align="center">
-Physics Student • Full Stack Developer • AI/ML Enthusiast • Future Startup Founder
-</h3>
+# Hi there, I'm Ceejal Magar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-<p align="center">
-Building projects that solve real-world problems through software and artificial intelligence.
+### Physics Student • Full Stack Developer • AI & ML Explorer
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Software+That+Matters;Learning+AI+%7C+Machine+Learning;Future+Tech+Entrepreneur;Always+Building+Something+New" />
+
+<br>
+
+<p>
+<a href="https://github.com/Ceejallmagar">
+<img src="https://img.shields.io/github/followers/Ceejallmagar?label=Followers&style=for-the-badge&logo=github">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Ceejallmagar&style=for-the-badge&color=blue">
+
 </p>
 
----
-
-## 🚀 About Me
-
-- 🎓 B.Sc. Physics Student
-- 💻 Full Stack Developer
-- 🤖 Learning Machine Learning & Artificial Intelligence
-- 🌱 Currently learning DSA, Python, and ML skills
-- 🏗️ Building projects for education and productivity
-- 🇳🇵 Based in Nepal
-- 🎯 Goal: Build a global technology company
+</div>
 
 ---
 
-## 🛠 Tech Stack
+# 💫 About Me
+
+```python
+class CeejalMagar:
+
+    def __init__(self):
+        self.location = "🇳🇵 Nepal"
+        self.education = "B.Sc Physics"
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Full Stack Development",
+            "Startups",
+            "Open Source"
+        ]
+
+    def life_goal(self):
+        return "Build technology that impacts millions."
+```
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,html,css" />
 
+### Frameworks
 
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+<img src="https://skillicons.dev/icons?i=mysql,firebase" />
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
+
+</div>
 
 ---
 
-## 📚 Currently Learning
+# 🚀 Current Focus
 
-- Machine Learning
-- Deep Learning
-- Data Structures & Algorithms
-- System Design
-- Python for AI
-- Mathematics for ML
+🌱 Learning Machine Learning
 
----
+🧠 Mastering Python
 
-## 📌 Featured Projects
+⚡ Building AI Projects
 
-- 📖 Student Notes Platform
-- 📊 Setu Ledger
-- 📝 AI Question Paper Generator
-- 🤖 AI Learning Projects
-- 🌐 Full Stack Web Applications
+📚 Studying Physics & Mathematics
+
+🏗️ Creating Real-world Products
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ceejallmagar&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ceejallmagar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceejallmagar&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceejallmagar&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ceejallmagar&theme=tokyonight"/>
-
-</p>
+</div>
 
 ---
 
-## 📊 Contribution Graph
+<div align="center">
 
-<p align="center">
+<img src="https://streak-stats.demolab.com?user=Ceejallmagar&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ceejallmagar&theme=tokyo-night"/>
-
-</p>
+</div>
 
 ---
 
-## 💡 Philosophy
+<div align="center">
 
-> "Build things that people actually use."
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ceejallmagar&theme=tokyo-night&hide_border=true"/>
 
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/Ceejallmagar
+</div>
 
 ---
 
-<p align="center">
+# 🏆 GitHub Trophies
 
-⭐ If you like my projects, consider giving them a star!
+<div align="center">
 
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Ceejallmagar&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Publish AI/ML projects
+- 🌍 Contribute to Open Source
+- 📈 Grow as a Software Engineer
+- 💡 Build products used by thousands
+- 🏢 Start a technology company
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+
+> *"Discipline compounds faster than motivation."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
+
+</div>
