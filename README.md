@@ -49,11 +49,11 @@ class CeejalMagar:
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,html,css" />
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
 
 ### Frameworks
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
 
 ### Database
 
