@@ -15,7 +15,7 @@ Building projects that solve real-world problems through software and artificial
 - 🎓 B.Sc. Physics Student
 - 💻 Full Stack Developer
 - 🤖 Learning Machine Learning & Artificial Intelligence
-- 🌱 Currently improving my DSA, Python, and ML skills
+- 🌱 Currently learning DSA, Python, and ML skills
 - 🏗️ Building projects for education and productivity
 - 🇳🇵 Based in Nepal
 - 🎯 Goal: Build a global technology company
@@ -33,7 +33,6 @@ Building projects that solve real-world problems through software and artificial
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
