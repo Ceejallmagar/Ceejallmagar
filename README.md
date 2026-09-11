@@ -2,7 +2,7 @@
 
 # Hi there, I'm Ceejal Magar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-### Physics Student • Full Stack Developer • AI & ML Explorer
+### Physics Student  • AI & ML Explorer
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Software+That+Matters;Learning+AI+%7C+Machine+Learning;Future+Tech+Entrepreneur;Always+Building+Something+New" />
 
