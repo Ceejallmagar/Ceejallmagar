@@ -7,7 +7,7 @@
 
 Building things, breaking things, and learning how technology works under the hood.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://trichandra-notes.vercel.app/)
+=
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Ceejallmagar)
 
 </div>
